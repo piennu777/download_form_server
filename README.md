@@ -15,5 +15,5 @@
 > > Please use at your own risk.  
 > > 
 > > # What is C#?
-> > C# is a general-purpose, multi-paradigm programming language developed by Microsoft > > C# has a syntax similar to Java, is easier to handle than C++, and requires less program writing.  
+> > C# is a general-purpose, multi-paradigm programming language developed by Microsoft C# has a syntax similar to Java, is easier to handle than C++, and requires less program writing.  
 > > Quote: https://ja.wikipedia.org/wiki/C_Sharp
